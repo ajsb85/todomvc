@@ -6,7 +6,7 @@
 	"dependencies": {
 		"derby": "git://github.com/codeparty/derby#d1ac9c0fcd",
 		"racer": "git://github.com/codeparty/racer#8d3357582e",
-		"express": "~3.0.1",
+		"express": "~4.17.1",
 		"gzippo": "~0.2.0"
 	},
 	"devDependencies": {
